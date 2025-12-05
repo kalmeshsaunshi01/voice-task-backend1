@@ -34,17 +34,6 @@ Spoken Command	Saved Task Output
 "Finish report next Monday"	Title: Finish report, Due: Next Monday
 "Call John"	Title: Call John (default settings)
 
-
-🏗️ Architecture
-┌───────────────────────────┐        ┌─────────────────────────┐
-│        Frontend (React)   │  --->  │  Backend API (Node.js) │
-│ UI + Speech Recognition   │        │ Express + Mongoose     │
-└───────────────────────────┘        └─────────────────────────┘
-                  ↓                            ↓
-                      ┌───────────────────────┐
-                      │ MongoDB Atlas (Cloud) │
-                      └───────────────────────┘
-
 🔧 Tech Stack
 Frontend :	React, Vite, Bootstrap, Axios
 Backend:	Node.js, Express.js
@@ -108,19 +97,3 @@ This project is open source and available under the MIT License.
 Author
 👤 Kalmesh C Saunshi
 🚀 Full-Stack Developer & AI Enthusiast
-
-
-
-
-
-
-
-Screenshot images if available
-
-If you want, I can also:
-
-📌 Create a project banner image
-📌 Make a GitHub cover README
-📌 Generate demo video script formatting
-📌 Add badges (Build | Deploy | Tech Stack)
-

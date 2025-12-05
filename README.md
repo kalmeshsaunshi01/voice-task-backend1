@@ -40,9 +40,14 @@ Backend:	Node.js, Express.js
 Database:	MongoDB Atlas
 NLP: Custom rule-based parser
 Deployment:	Vercel (Frontend), Render (Backend)
+
+
 📦 Installation (Local Setup)
+
 1️⃣ Clone the repo
+
 git clone <your repo url>
+
 cd voice-task-manager
 
 2️⃣ Backend Setup
@@ -97,3 +102,4 @@ This project is open source and available under the MIT License.
 Author
 👤 Kalmesh C Saunshi
 🚀 Full-Stack Developer & AI Enthusiast
+
